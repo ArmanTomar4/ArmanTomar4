@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @ArmanTomar4
-- 👀 I’m interested in full stack
-- 🌱 I’m currently learning dsa
-- 💞️ I’m looking to collaborate on pninfosys
-- 📫 reach me with tomararman4@gmail.com
-- right now in college fist year (branch- AIML)
-- 
+I build interfaces people screenshot and blunder pieces people remember.
