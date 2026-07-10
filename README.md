@@ -36,8 +36,6 @@ Infra       Docker · AWS · GCP · Vercel
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=555&icon_color=8B8B8B&title_color=333&bg_color=00000000" height="150"/>
-
 </div>
 
 <br/>
